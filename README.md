@@ -5,7 +5,7 @@ Use an accelerometer as a game controller to control an airplane game object in 
 
 For information on how to build and use this code visit:
 
-http://codergirljp.blogspot.com/2014/05/adxl335-accelerometer-on-teensy-31.html
+http://codergirljp.blogspot.com/2014/05/teensy-31-accelerometer-control-game.html
 
 Do Build this Unity Project:
 1) Download the UnityPlaneGame.zip and unzip it to a UnityPlaneGame folder.
