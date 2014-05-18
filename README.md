@@ -13,6 +13,9 @@ Do Build this Unity Project:
 
 2) Download everything the Assets directory here and put them in an Assets directory under 
    the UnityPlaneGame directory. Extract compressed folders to folders with the same names. 
+   
+   (You will need 7 zip to extract the files. You can find 7 zip at http://www.7-zip.org/)
+     
    When complete you should have the following Assets directories:
    UnityPlaneGame/Assets/
       Block_Building_Pack
